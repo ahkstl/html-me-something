@@ -1,0 +1,39 @@
+div {
+    border: 10px solid black;
+    padding: 15px 50px 25px 40px;
+    background-color: lightblue;
+}
+
+img {
+	width: auto%;
+	max-width: auto%;
+	.center {
+    margin: auto;
+ body {
+    background-image: url("gradient_bg.png");
+    background-repeat: repeat-x;
+}
+}
+}
+
+@media screen and (max-width: 680px) {
+	nav ul li {
+		margin: 1em 0;
+		display: block;
+		font-size: 1em;
+	
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+img {
+    max-width: 100%;
+    height: auto;
+    .center {
+    margin: 50;
+    
+</style>
+</head>
+}
+
+p {
+	padding: 1.25em;
+}

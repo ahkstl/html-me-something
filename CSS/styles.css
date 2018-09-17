@@ -1,0 +1,44 @@
+
+div {
+    border: 10px solid black;
+    padding: 15px 50px 25px 40px;
+    background-color: lightblue;
+}
+
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+	padding: 1.25em;
+}
+
+img {
+	width: auto%;
+	max-width: auto%;
+}
+
+@media screen and (max-width: 680px) {
+	nav ul li {
+		margin: 1em 0;
+		display: block;
+		font-size: 1em;
+	}
+	body {
+		font-size: 50%;
+	}
+}	
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+</style>
+</head>
+}
+
+p {
+	padding: 1.25em;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
